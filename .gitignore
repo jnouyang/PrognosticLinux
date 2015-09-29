@@ -1,20 +1,16 @@
-/www/download/**
-/www/favicon.ico
-/www/images/**
+source/**
+work/**
+*.iso
 
-/src/source/**
-/src/work/**
-/src/*.iso
+experimental/glibc-toybox/source/**
+experimental/glibc-toybox/work/**
+experimental/glibc-toybox/*.iso
 
-/src/experimental/glibc-toybox/source/**
-/src/experimental/glibc-toybox/work/**
-/src/experimental/glibc-toybox/*.iso
+experimental/musl-busybox/source/**
+experimental/musl-busybox/work/**
+experimental/musl-busybox/*.iso
 
-/src/experimental/musl-busybox/source/**
-/src/experimental/musl-busybox/work/**
-/src/experimental/musl-busybox/*.iso
-
-/src/experimental/musl-toybox/source/**
-/src/experimental/musl-toybox/work/**
-/src/experimental/musl-toybox/*.iso
+experimental/musl-toybox/source/**
+experimental/musl-toybox/work/**
+experimental/musl-toybox/*.iso
 
