@@ -1,4 +1,4 @@
 #!/bin/sh
 
-qemu-system-x86_64 -cdrom minimal_linux_live.iso
+/usr/libexec/qemu-kvm -smp 1 -m 512 -cdrom minimal_linux_live.iso -vnc :0
 
