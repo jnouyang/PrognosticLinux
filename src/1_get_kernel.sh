@@ -18,7 +18,7 @@ mkdir ../work/kernel
 
 # Extract kernel to folder 'work/kernel'
 # Full path will be something like 'work/kernel/linux-3.16.1'
-tar -xvf $ARCHIVE_FILE -C ../work/kernel
+tar -xf $ARCHIVE_FILE -C ../work/kernel
 
 cd ..
 
