@@ -69,7 +69,7 @@ cat > welcome.txt << EOF
 
   #####################################
   #                                   #
-  #  Welcome to "Minimal Linux Live"  #
+  #  Welcome to "PetLab Linux Live"  #
   #                                   #
   #####################################
 
