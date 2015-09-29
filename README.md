@@ -1,4 +1,4 @@
-PetLab Linux Live
+Prognostic Linux Live
 =======
 Stripped down Linux environment for the development and experiments at the
 [Prognostic Lab] (http://www.prognosticlab.org/) at the University of Pittsburgh.

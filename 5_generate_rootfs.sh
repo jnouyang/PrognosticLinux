@@ -67,11 +67,11 @@ chmod +x rc.dhcp
 # available terminal.
 cat > welcome.txt << EOF
 
-  #####################################
-  #                                   #
-  #  Welcome to "PetLab Linux Live"  #
-  #                                   #
-  #####################################
+  ########################################
+  #                                      #
+  #  Welcome to "Prognostic Linux Live"  #
+  #                                      #
+  ########################################
 
 EOF
 
