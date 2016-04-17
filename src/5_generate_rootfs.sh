@@ -22,6 +22,7 @@ mkdir root
 mkdir src
 mkdir sys
 mkdir tmp
+mkdir opt
 
 # "1" means that only the owner of a file/directory (or root) can remove it.
 chmod 1777 tmp
@@ -111,6 +112,8 @@ cp ../../*.sh src
 cp ../../.config src
 chmod +r src/*.sh
 chmod +r src/.config
+
+cp -r ../../opt/* opt/
 
 cd ../..
 
