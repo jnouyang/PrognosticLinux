@@ -113,7 +113,5 @@ cp ../../.config src
 chmod +r src/*.sh
 chmod +r src/.config
 
-cp -r ../../opt/* opt/
-
 cd ../..
 
